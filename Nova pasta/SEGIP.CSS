@@ -1,0 +1,29 @@
+.btn{
+   text-align: center;
+   background: #ffffffc2;
+   padding: 5px 5px;
+   border-radius: 5px;
+   boder: 1px solid #555
+   user-selected: none;
+   cursor: pointer;
+   text-decoration: none;
+}
+
+body{
+  width:60%;
+  max-width: 800PX;
+  margin:auto;
+  background: url(download.png) center;
+  font-family:'lato';
+  line-height: 1.5
+}
+main {
+ background: #ff3a2c6b;
+ padding: 5px 40px;
+ margin-top: 15px;
+ border-radius: 15px;
+
+}
+.PROJETOS, .abreviação{
+  text-align: center;
+}
